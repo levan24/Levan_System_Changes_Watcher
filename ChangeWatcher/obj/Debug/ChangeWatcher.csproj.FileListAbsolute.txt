@@ -1,0 +1,10 @@
+C:\Users\levan\source\repos\ChangeWatcher\ChangeWatcher\bin\Debug\ChangeWatcher.exe.config
+C:\Users\levan\source\repos\ChangeWatcher\ChangeWatcher\bin\Debug\ChangeWatcher.exe
+C:\Users\levan\source\repos\ChangeWatcher\ChangeWatcher\bin\Debug\ChangeWatcher.pdb
+C:\Users\levan\source\repos\ChangeWatcher\ChangeWatcher\obj\Debug\ChangeWatcher.csprojAssemblyReference.cache
+C:\Users\levan\source\repos\ChangeWatcher\ChangeWatcher\obj\Debug\ChangeWatcher.Form1.resources
+C:\Users\levan\source\repos\ChangeWatcher\ChangeWatcher\obj\Debug\ChangeWatcher.Properties.Resources.resources
+C:\Users\levan\source\repos\ChangeWatcher\ChangeWatcher\obj\Debug\ChangeWatcher.csproj.GenerateResource.cache
+C:\Users\levan\source\repos\ChangeWatcher\ChangeWatcher\obj\Debug\ChangeWatcher.csproj.CoreCompileInputs.cache
+C:\Users\levan\source\repos\ChangeWatcher\ChangeWatcher\obj\Debug\ChangeWatcher.exe
+C:\Users\levan\source\repos\ChangeWatcher\ChangeWatcher\obj\Debug\ChangeWatcher.pdb
