@@ -8,3 +8,8 @@ LOG:
 
 Save LOG:
 ![2](https://user-images.githubusercontent.com/38010166/83965698-9ed56e80-a8c6-11ea-8309-b2901ffb16ff.gif)
+
+
+Used Packages: 
+Costura.Fody.4.1.0
+Fody.6.0.0
